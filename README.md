@@ -10,7 +10,8 @@ Run the bash file to install prerequisites
 ```
 
 ### How to Run
+While entering the path make sure to end with  <kbd>/</kbd>
 
 ```bash
-python getbibtex.py /path/to/download/directory
+python getbibtex.py /path/to/download/directory/
 ```
